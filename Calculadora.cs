@@ -207,13 +207,6 @@ namespace Calculadora_Impostos_Importacao
                 TxtTaxaPorCem.Text = PorcentagemImportacao.ToString("F") + "%";
                 TxtICMS.Text = ICMSPorcentagem.ToString("F") + "%";
 
-
-
-
-
-
-
-
             }
             else
             {
